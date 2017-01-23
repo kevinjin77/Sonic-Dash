@@ -6,4 +6,4 @@ https://github.com/Open-Turing-Project/OpenTuring <br/> <br/>
 ![Alt text] (./Pics/SonicDashInstructions.PNG?raw=true)
 ![Alt text] (./Pics/SonicDashGameplay.PNG?raw=true)
 ![Alt text] (./Pics/SonicDashScore.PNG?raw=true) <br/> <br/>
-Disclaimer: I do not own any of the pictures or music used in this game. 
+Disclaimer: I do not own any of the pictures or music used in this game.  
