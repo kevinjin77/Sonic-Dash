@@ -351,12 +351,6 @@ ghostsprite := Sprite.New (ghostpic(1))
 var eggman : int 
 eggman := Sprite.New (eggmanpic(1))
 
-setscreen ("nooffscreenonly")
-fork PlaySound (sega)
-Pic.DrawSpecial (segaID, 0, 0, picCopy, picFadeIn, 2000)
-Pic.DrawSpecial (blackID, 0, 0, picCopy, picFadeIn, 1000)
-setscreen ("offscreenonly")
-
 loop
     var x : int := 100
     var y : int := 12
